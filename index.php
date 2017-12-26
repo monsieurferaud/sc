@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!-- Aqui van los comentarios -->
 <html>
 <head>
 	<title>Test BBDD</title>
